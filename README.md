@@ -10,7 +10,7 @@ I work across the full technology lifecycle:
 
 **Infrastructure → Data Engineering → Analytics → BI → Business Insights**
 
-📍 Based in Canada 🇨🇦 · Open to **Data Analyst, Data Engineer, BI, Cloud & DevOps opportunities**
+📍 Based in Canada 🇨🇦 · Open to **Data Analyst, BI, Cloud & DevOps opportunities**
 
 ---
 
