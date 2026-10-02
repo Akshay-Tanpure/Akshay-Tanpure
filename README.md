@@ -405,13 +405,9 @@ Aug 2017 – Oct 2020
 **LinkedIn:**  
 https://www.linkedin.com/in/akshay-tanpure/
 
-**GitHub:**  
-
-
 **Portfolio:**  
 
-**Email:**  
-akshay.t@zohomailcloud.ca
+**Email:**  akshay.t@zohomailcloud.ca
 
 ---
 
