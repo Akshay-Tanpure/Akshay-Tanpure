@@ -83,7 +83,6 @@ Professional experience across **DevOps, cloud infrastructure, automation, monit
 - Docker
 - Git
 - GitHub
-- REST APIs
 
 ---
 
