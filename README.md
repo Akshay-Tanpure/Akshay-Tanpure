@@ -36,8 +36,19 @@ I work across the full technology lifecycle:
 
 ## 💼 Professional Experience
 
-### 🔧 StoneX Group Inc.
+### Walmart Canada
+**Asset Protection**
+📍 Uxbridge, ON · **Dec 2025 – Present**
 
+- Analyze inventory, transactional, and behavioral data to identify anomalies and patterns, using data-driven insights to support shrink mitigation and loss prevention strategies.
+- Build the fact base for loss-prevention decisions by analyzing inventory, transactional, and behavioral data across 8+ inventory categories, surfacing anomalies and ranking high-risk cases by exposure.
+- Investigate 15+ inventory discrepancies per month, applying root-cause analysis to uncover recurring patterns across stock adjustments, returns, and product movements.
+- Conduct root-cause analysis on process and policy gaps, prioritizing the highest-exposure categories to focus improvement effort where risk was greatest.
+- Use pivot table-based analysis to rank high-risk inventory trends and cases across departments, directing investigative focus to areas of greatest loss exposure.
+- Coach and guide associates on loss-prevention procedures and compliance, influencing day-to-day practice and building trust with frontline teams.
+- Own the weekly loss-analytics reporting cycle, consolidating inventory and transaction...
+
+### StoneX Group Inc.
 **DevOps Engineer**  
 📍 Bangalore, India · **Dec 2021 – Nov 2024**
 
