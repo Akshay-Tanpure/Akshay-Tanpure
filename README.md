@@ -168,21 +168,9 @@ End-to-end credit risk analytics pipeline analyzing **32,581 loan records** to i
 
 ---
 
-## 🏙️ Capstone & Real-World Work
-
-### 4) Capstone-Project-Simcoe-County-Client
-
-Client capstone project analyzing **EMS dispatch patterns** and predicting resource requirements using machine learning and simulation for Simcoe County.
-
-**Tech:** Python · scikit-learn · Analytics · Simulation
-
-🔗 Repo: 
-
----
-
 ## 📈 Domain-Specific Analytics
 
-### 5) Cricket-Analytics
+### 4) Cricket-Analytics
 
 Player and team performance analytics with match trends, statistical comparisons, and visual analysis.
 
@@ -194,7 +182,7 @@ Player and team performance analytics with match trends, statistical comparisons
 
 ## 📈 Real-Time Data / MERN
 
-### 6) StockMarket
+### 5) StockMarket
 
 Real-time stock market dashboard with live trade data, news aggregation, and interactive charts.
 
@@ -207,18 +195,6 @@ Real-time stock market dashboard with live trade data, news aggregation, and int
 - Data visualization
 
 **Tech:** React · Node.js · Express · MongoDB · Chart.js · D3.js
-
-🔗 Repo: 
-
----
-
-## 💼 Web App Frontend
-
-### 7) Wouessi-EMS-Frontend
-
-Frontend for an Employee Management System with admin and user workflow components.
-
-**Tech:** React · JavaScript · Tailwind CSS
 
 🔗 Repo: 
 
@@ -344,7 +320,6 @@ Aug 2017 – Oct 2020
 | ✅ Done | Canadian Housing Analytics | Azure Data Factory · Synapse · Power BI |
 | 🔜 Next | E-commerce Analytics | BigQuery · dbt · Looker Studio |
 | 🔜 Then | Marketing Analytics | GA4 API · BigQuery · Python |
-| 🔜 After | Automated ETL Pipeline | Airbyte · Redshift · dbt |
 
 ---
 
@@ -402,10 +377,7 @@ Aug 2017 – Oct 2020
 
 # 📫 Let's Connect
 
-**LinkedIn:**  
-https://www.linkedin.com/in/akshay-tanpure/
-
-**Portfolio:**  
+**LinkedIn:**  https://www.linkedin.com/in/akshay-tanpure/
 
 **Email:**  akshay.t@zohomailcloud.ca
 
