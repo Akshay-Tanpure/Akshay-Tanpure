@@ -122,7 +122,7 @@ End-to-end analytics pipeline analyzing **121,000+ rows** of real Canadian gover
 
 **Tech:** Azure Data Factory · Azure Data Lake Gen2 · Azure Synapse Analytics · Power BI · DAX · SQL
 
-🔗 Repo: 
+🔗 Repo: https://github.com/Akshay-Tanpure/canadian-housing-analytics
 
 ---
 
@@ -145,7 +145,7 @@ End-to-end analytics pipeline analyzing **55,500 hospital patient admissions** t
 
 **Tech:** Snowflake · SQL · Power BI · DAX · GitHub
 
-🔗 Repo: 
+🔗 Repo: https://github.com/Akshay-Tanpure/healthcare-analytics-snowflake
 
 ---
 
@@ -175,7 +175,7 @@ End-to-end credit risk analytics pipeline analyzing **32,581 loan records** to i
 
 **Tech:** Databricks · PySpark · Snowflake · SQL · Power BI · DAX · GitHub
 
-🔗 Repo: 
+🔗 Repo: https://github.com/Akshay-Tanpure/financial-risk-dashboard
 
 ---
 
@@ -187,7 +187,7 @@ Player and team performance analytics with match trends, statistical comparisons
 
 **Tech:** Python · Pandas · Visualization
 
-🔗 Repo: 
+🔗 Repo: https://github.com/Akshay-Tanpure/Cricket-Analytics
 
 ---
 
@@ -207,7 +207,7 @@ Real-time stock market dashboard with live trade data, news aggregation, and int
 
 **Tech:** React · Node.js · Express · MongoDB · Chart.js · D3.js
 
-🔗 Repo: 
+🔗 Repo: https://github.com/Akshay-Tanpure/StockMarket
 
 ---
 
