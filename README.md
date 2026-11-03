@@ -1,3 +1,4 @@
+
 # Hi, I'm Akshay👋
 
 **Data Analyst | DevOps Engineer | Cloud & BI**
@@ -37,7 +38,7 @@ I work across the full technology lifecycle:
 ## 💼 Professional Experience
 
 ### Walmart Canada
-**Asset Protection**
+**Asset Protection**  
 📍 Uxbridge, ON · **Dec 2025 – Present**
 
 - Analyze inventory, transactional, and behavioral data to identify anomalies and patterns, using data-driven insights to support shrink mitigation and loss prevention strategies.
@@ -54,18 +55,18 @@ I work across the full technology lifecycle:
 
 Professional experience across **DevOps, cloud infrastructure, automation, monitoring, CI/CD, and regulated financial-services environments**.
 
-- Built and maintained real-time monitoring dashboards for system health, release quality, and risk exposure
-- Consolidated system health, deployment, and operational data to improve visibility across engineering teams
-- Automated infrastructure-as-code workflows using **Terraform and Ansible**
-- Eliminated **15+ hours of manual effort per sprint** through infrastructure automation and deployment workflows
-- Designed end-to-end **CI/CD pipelines** that reduced deployment cycle times by approximately **40%**
-- Enabled more frequent releases by streamlining deployment workflows and improving operational visibility
-- Consolidated performance, incident, and release data into centralized monitoring platforms
-- Reduced manual reconciliation and improved project visibility through centralized reporting
-- Monitored and maintained production systems in a **high-availability, regulated financial-services environment**
-- Supported proactive incident detection and rapid incident resolution
-- Partnered with product owners and development teams to translate operational requirements into delivery plans
-- Worked across engineering and operations teams to improve deployment and production workflows
+- Built and maintained real-time monitoring dashboards for system health, release quality, and risk exposure.
+- Consolidated system health, deployment, and operational data to improve visibility across engineering teams.
+- Automated infrastructure-as-code workflows using **Terraform and Ansible**.
+- Eliminated **15+ hours of manual effort per sprint** through infrastructure automation and deployment workflows.
+- Designed end-to-end **CI/CD pipelines** that reduced deployment cycle times by approximately **40%**.
+- Enabled more frequent releases by streamlining deployment workflows and improving operational visibility.
+- Consolidated performance, incident, and release data into centralized monitoring platforms.
+- Reduced manual reconciliation and improved project visibility through centralized reporting.
+- Monitored and maintained production systems in a **high-availability, regulated financial-services environment**.
+- Supported proactive incident detection and rapid incident resolution.
+- Partnered with product owners and development teams to translate operational requirements into delivery plans.
+- Worked across engineering and operations teams to improve deployment and production workflows.
 
 ### ⚙️ DevOps & Cloud Engineering
 
@@ -99,34 +100,52 @@ Professional experience across **DevOps, cloud infrastructure, automation, monit
 
 # 📂 Featured Projects
 
-## ☁️ Cloud Analytics Pipelines
+## 📊 Data Analytics & BI
 
-### 1) 🏠 Canadian Housing Market Analytics Pipeline ⭐ NEW
+### 1) ♠️ Poker Player Analytics ⭐ NEW
 
-End-to-end analytics pipeline analyzing **121,000+ rows** of real Canadian government data to uncover housing affordability trends, rate hike impacts, and city-level price comparisons.
+Python-based poker player analytics project focused on analyzing poker-related data and exploring player performance.
 
-- Built **Azure Data Factory** pipeline ingesting Statistics Canada and Bank of Canada open data into **Azure Data Lake Gen2**
-- Created external tables in **Azure Synapse Analytics Serverless SQL Pool**, allowing queries directly against Data Lake data without copying it
-- Wrote 10 business SQL queries using **CTEs, window functions, and RANK** to analyze post-COVID price growth and affordability rankings
-- Built a 4-page **Power BI** dashboard with 8 DAX measures covering:
-  - National Overview
-  - City Comparison
-  - Rate Impact
-  - Housing Supply
+- Developed using Python for poker player data analysis.
+- Focused on exploring poker player data and performance insights.
+- Organized analytics project using Python.
 
-**Key Findings:**
+**Tech:** Python
 
-- Canadian housing prices rose **30%+** post-COVID
-- Bank of Canada policy rates increased from **0.25% → 5.00%**
-- Analyzed the relationship between interest-rate changes and housing market recovery
-
-**Tech:** Azure Data Factory · Azure Data Lake Gen2 · Azure Synapse Analytics · Power BI · DAX · SQL
-
-🔗 Repo: https://github.com/Akshay-Tanpure/canadian-housing-analytics
+🔗 Repo: https://github.com/Akshay-Tanpure/poker-player-analytics
 
 ---
 
-### 2) 🏥 Healthcare Analytics Pipeline ⭐ NEW
+### 2) 🏦 Financial Credit Risk Dashboard
+
+End-to-end credit risk analytics pipeline analyzing **32,581 loan records** to identify default patterns and segment borrowers into risk tiers.
+
+- Processed data using **PySpark on Databricks**
+- Built 3 professional Databricks notebooks
+- Built a custom **Risk Scoring Engine** with a 0–100 score based on 4 weighted factors
+- Designed a **3-layer Snowflake architecture**
+- Created 4 pre-aggregated analytics tables
+- Wrote 10 business SQL queries using:
+  - CTEs
+  - Window functions
+  - Aggregations
+  - Snowflake Time Travel
+- Built a 4-page **Power BI** dashboard
+- Created 8 DAX measures
+
+**Key Results:**
+- Portfolio default rate: **21.82%**
+- Critical Risk loans represented **0.3%** of the portfolio
+- Critical Risk loans had a **61.8% default rate**
+- Venture and Education loans showed higher default rates within the analyzed dataset
+
+**Tech:** Databricks · PySpark · Snowflake · SQL · Power BI · DAX · GitHub
+
+🔗 Repo: https://github.com/Akshay-Tanpure/financial-risk-dashboard
+
+---
+
+### 3) 🏥 Healthcare Analytics Pipeline
 
 End-to-end analytics pipeline analyzing **55,500 hospital patient admissions** to uncover insights on billing, patient demographics, and clinical outcomes.
 
@@ -149,56 +168,37 @@ End-to-end analytics pipeline analyzing **55,500 hospital patient admissions** t
 
 ---
 
-### 3) 🏦 Financial Credit Risk Dashboard ⭐ NEW
+### 4) 🏠 Canadian Housing Market Analytics Pipeline
 
-End-to-end credit risk analytics pipeline analyzing **32,581 loan records** to identify default patterns and segment borrowers into risk tiers.
+End-to-end analytics pipeline analyzing **121,000+ rows** of real Canadian government data to uncover housing affordability trends, rate hike impacts, and city-level price comparisons.
 
-- Processed data using **PySpark on Databricks**
-- Built 3 professional Databricks notebooks
-- Built a custom **Risk Scoring Engine** with a 0–100 score based on 4 weighted factors
-- Designed a **3-layer Snowflake architecture**
-- Created 4 pre-aggregated analytics tables
-- Wrote 10 business SQL queries using:
-  - CTEs
-  - Window functions
-  - Aggregations
-  - Snowflake Time Travel
-- Built a 4-page **Power BI** dashboard
-- Created 8 DAX measures
+- Built **Azure Data Factory** pipeline ingesting Statistics Canada and Bank of Canada open data into **Azure Data Lake Gen2**
+- Created external tables in **Azure Synapse Analytics Serverless SQL Pool**, allowing queries directly against Data Lake data without copying it
+- Wrote 10 business SQL queries using **CTEs, window functions, and RANK** to analyze post-COVID price growth and affordability rankings
+- Built a 4-page **Power BI** dashboard with 8 DAX measures covering:
+  - National Overview
+  - City Comparison
+  - Rate Impact
+  - Housing Supply
 
-**Key Results:**
+**Key Findings:**
+- Canadian housing prices rose **30%+** post-COVID
+- Bank of Canada policy rates increased from **0.25% → 5.00%**
+- Analyzed the relationship between interest-rate changes and housing market recovery
 
-- Portfolio default rate: **21.82%**
-- Critical Risk loans represented **0.3%** of the portfolio
-- Critical Risk loans had a **61.8% default rate**
-- Venture and Education loans showed higher default rates within the analyzed dataset
+**Tech:** Azure Data Factory · Azure Data Lake Gen2 · Azure Synapse Analytics · Power BI · DAX · SQL
 
-**Tech:** Databricks · PySpark · Snowflake · SQL · Power BI · DAX · GitHub
-
-🔗 Repo: https://github.com/Akshay-Tanpure/financial-risk-dashboard
-
----
-
-## 📈 Domain-Specific Analytics
-
-### 4) Cricket-Analytics
-
-Player and team performance analytics with match trends, statistical comparisons, and visual analysis.
-
-**Tech:** Python · Pandas · Visualization
-
-🔗 Repo: https://github.com/Akshay-Tanpure/Cricket-Analytics
+🔗 Repo: https://github.com/Akshay-Tanpure/canadian-housing-analytics
 
 ---
 
 ## 📈 Real-Time Data / MERN
 
-### 5) StockMarket
+### 5) 📈 StockMarket
 
 Real-time stock market dashboard with live trade data, news aggregation, and interactive charts.
 
 **Features:**
-
 - Live trade data
 - News aggregation
 - Interactive market charts
@@ -208,6 +208,18 @@ Real-time stock market dashboard with live trade data, news aggregation, and int
 **Tech:** React · Node.js · Express · MongoDB · Chart.js · D3.js
 
 🔗 Repo: https://github.com/Akshay-Tanpure/StockMarket
+
+---
+
+## 🏏 Domain-Specific Analytics
+
+### 6) Cricket-Analytics
+
+Player and team performance analytics with match trends, statistical comparisons, and visual analysis.
+
+**Tech:** Python · Pandas · Visualization
+
+🔗 Repo: https://github.com/Akshay-Tanpure/Cricket-Analytics
 
 ---
 
@@ -326,11 +338,26 @@ Aug 2017 – Oct 2020
 
 | **Status** | **Project** | **Tools** |
 |---|---|---|
-| ✅ Done | Healthcare Analytics Pipeline | Snowflake · SQL · Power BI |
+| ✅ Done | Poker Player Analytics | Python |
 | ✅ Done | Financial Risk Dashboard | Databricks · Snowflake · Power BI |
-| ✅ Done | Canadian Housing Analytics | Azure Data Factory · Synapse · Power BI |
-| 🔜 Next | E-commerce Analytics | BigQuery · dbt · Looker Studio |
-| 🔜 Then | Marketing Analytics | GA4 API · BigQuery · Python |
+| ✅ Done | Healthcare Analytics Pipeline | Snowflake · SQL · Power BI |
+| 🔜 Next | **Canadian Road Condition Tracker** | Python · AI/ML · Computer Vision · Geospatial Analytics · Interactive Maps |
+
+### 🔜 Canadian Road Condition Tracker
+
+A road condition monitoring and civic reporting platform adapted for Canadian roads and infrastructure.
+
+**Planned Features:**
+
+- **Road Damage Detection:** Identify potholes, cracks, and other road surface defects using AI-powered image analysis.
+- **Citizen Reporting:** Allow residents to submit road damage reports with photographs and location information.
+- **Geospatial Mapping:** Display reported road issues on an interactive map with location-based filtering.
+- **Community Validation:** Enable community members to review and validate reported road conditions.
+- **Issue Tracking:** Track reported road issues through their progress and resolution.
+- **Authority Accountability:** Organize reports to support responsible authorities in prioritizing maintenance and repairs.
+- **Analytics Dashboard:** Visualize road condition trends, reported issues, and repair progress.
+
+**Planned Tech:** Python · AI/ML · Computer Vision · Geospatial Analytics · Interactive Maps · Data Visualization
 
 ---
 
@@ -379,18 +406,16 @@ Aug 2017 – Oct 2020
 # 🛠️ Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,azure,docker,terraform,ansible,git,github,linux,react,nodejs,mongodb,js" />
-
 </p>
 
 ---
 
 # 📫 Let's Connect
 
-**LinkedIn:**  https://www.linkedin.com/in/akshay-tanpure/
+**LinkedIn:** https://www.linkedin.com/in/akshay-tanpure/
 
-**Email:**  akshay.t@zohomailcloud.ca
+**Email:** akshay.t@zohomailcloud.ca
 
 ---
 
