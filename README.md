@@ -102,21 +102,7 @@ Professional experience across **DevOps, cloud infrastructure, automation, monit
 
 ## 📊 Data Analytics & BI
 
-### 1) ♠️ Poker Player Analytics ⭐ NEW
-
-Python-based poker player analytics project focused on analyzing poker-related data and exploring player performance.
-
-- Developed using Python for poker player data analysis.
-- Focused on exploring poker player data and performance insights.
-- Organized analytics project using Python.
-
-**Tech:** Python
-
-🔗 Repo: https://github.com/Akshay-Tanpure/poker-player-analytics
-
----
-
-### 2) 🏦 Financial Credit Risk Dashboard
+### 1) 🏦 Financial Credit Risk Dashboard
 
 End-to-end credit risk analytics pipeline analyzing **32,581 loan records** to identify default patterns and segment borrowers into risk tiers.
 
@@ -145,7 +131,7 @@ End-to-end credit risk analytics pipeline analyzing **32,581 loan records** to i
 
 ---
 
-### 3) 🏥 Healthcare Analytics Pipeline
+### 2) 🏥 Healthcare Analytics Pipeline
 
 End-to-end analytics pipeline analyzing **55,500 hospital patient admissions** to uncover insights on billing, patient demographics, and clinical outcomes.
 
@@ -168,7 +154,7 @@ End-to-end analytics pipeline analyzing **55,500 hospital patient admissions** t
 
 ---
 
-### 4) 🏠 Canadian Housing Market Analytics Pipeline
+### 3) 🏠 Canadian Housing Market Analytics Pipeline
 
 End-to-end analytics pipeline analyzing **121,000+ rows** of real Canadian government data to uncover housing affordability trends, rate hike impacts, and city-level price comparisons.
 
@@ -194,7 +180,7 @@ End-to-end analytics pipeline analyzing **121,000+ rows** of real Canadian gover
 
 ## 📈 Real-Time Data / MERN
 
-### 5) 📈 StockMarket
+### 4) 📈 StockMarket
 
 Real-time stock market dashboard with live trade data, news aggregation, and interactive charts.
 
@@ -213,7 +199,7 @@ Real-time stock market dashboard with live trade data, news aggregation, and int
 
 ## 🏏 Domain-Specific Analytics
 
-### 6) Cricket-Analytics
+### 5) Cricket-Analytics
 
 Player and team performance analytics with match trends, statistical comparisons, and visual analysis.
 
@@ -338,7 +324,6 @@ Aug 2017 – Oct 2020
 
 | **Status** | **Project** | **Tools** |
 |---|---|---|
-| ✅ Done | Poker Player Analytics | Python |
 | ✅ Done | Financial Risk Dashboard | Databricks · Snowflake · Power BI |
 | ✅ Done | Healthcare Analytics Pipeline | Snowflake · SQL · Power BI |
 | 🔜 Next | **Canadian Road Condition Tracker** | Python · AI/ML · Computer Vision · Geospatial Analytics · Interactive Maps |
